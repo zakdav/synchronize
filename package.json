@@ -5,7 +5,7 @@
   "homepage"     : "http://alexeypetrushin.github.com/synchronize",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexeypetrushin/synchronize.git"
+    "url": "https://github.com/zakdav/synchronize.git"
   },
   "dependencies" : {
     "fibers" : "2.0.x"

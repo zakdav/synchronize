@@ -1,5 +1,5 @@
 {
-  "name"         : "synchronize",
+  "name"         : "synchronize_f2",
   "main"         : "./sync",
   "version"      : "2.0.1",
   "homepage"     : "http://alexeypetrushin.github.com/synchronize",
